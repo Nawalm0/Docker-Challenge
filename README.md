@@ -28,8 +28,15 @@ Route /count → Increments and displays a visit counter stored in Redis.
 Redis Database
 
 Acts as a persistent store for the visit counter.
-
 Communicates with the Flask container via the internal Docker network.
+
+## 🎥 Demo Video
+Here’s a quick walkthrough of the Flask + Redis containers in action:
+
+
+https://github.com/user-attachments/assets/0b826807-9102-4caf-82d1-c6c262065e5b
+
+
 
 
 
